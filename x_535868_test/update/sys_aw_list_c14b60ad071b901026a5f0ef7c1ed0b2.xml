@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value=".NET Applications">454b60ad071b901026a5f0ef7c1ed0af</category>
+        <columns>asset,asset_tag,assigned,assigned_to,assignment_group,attestation_score,attested,attested_by,attested_date,attributes,can_print,category,change_control,checked_in,checked_out,cl_port,command_line,comments,company,config_directory,config_file,correlation_id,cost,cost_cc,cost_center,delivery_date,department,discovery_source,dns_domain,due,due_in,duplicate_of,edition,environment,executable,fault_count,first_discovered,fqdn,gl_account,install_date,install_directory,install_status,invoice_number,ip_address,is_clustered,justification,last_discovered,lease_id,location,mac_address,maintenance_schedule,managed_by,managed_by_group,manufacturer,model_id,model_number,monitor,name,operational_status,order_date,owned_by,pid,po_number,purchase_date,rp_command_hash,rp_key_parameters_hash,running_process_command,running_process_key_parameters,schedule,serial_number,short_description,skip_sync,start_date,subcategory,support_group,supported_by,sys_class_name,sys_class_path,sys_created_by,sys_created_on,sys_domain,sys_domain_path,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,tcp_port,unverified,used_for,vendor,version,warranty_expiration</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-16 15:33:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c14b60ad071b901026a5f0ef7c1ed0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test" source="x_535868_test">b18aa0e5071b901026a5f0ef7c1ed036</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">b18aa0e5071b901026a5f0ef7c1ed036</sys_scope>
+        <sys_update_name>sys_aw_list_c14b60ad071b901026a5f0ef7c1ed0b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-16 15:33:36</sys_updated_on>
+        <table>cmdb_ci_appl_dot_net</table>
+        <title>All</title>
+        <workspace display_value="test">12ca68e9071b901026a5f0ef7c1ed0fc</workspace>
+    </sys_aw_list>
+</record_update>
